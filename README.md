@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hey there! I'm Nnamdi Udeh 👋 </h1>
 
 <div align="left"> 
