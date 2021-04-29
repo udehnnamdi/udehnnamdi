@@ -36,13 +36,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udehnnamdi&theme=buefy&layout=compact" />
 </a>
 
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+### 📫🤝🏻 Connect with Me
 
-  <p align="center"> 
-    <a href="https://www.linkedin.com/in/anitish/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
-  
-    <a href="mailto:anitish.225@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
- 
-  </p>
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/nnamdi-udeh-630a33185) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:udehnnamdi.edu@gmail.com) 💌
+ - [GitHub Profile Summary](https://profile-summary-for-github.com/user/onlyArsh)
+
 
