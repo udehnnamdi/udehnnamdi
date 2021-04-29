@@ -22,11 +22,11 @@
 ![express.js](https://img.shields.io/badge/-express-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 <br>
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![mongoose](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
+![mongoose](https://img.shields.io/badge/-mongoose-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+![ejs](https://img.shields.io/badge/-ejs-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![ejs-mate](https://img.shields.io/badge/-ejs-mate-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
+![cloudinary](https://img.shields.io/badge/-cloudinary-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
+![passport](https://img.shields.io/badge/-passport-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
