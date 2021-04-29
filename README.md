@@ -30,3 +30,10 @@
 ![ejs-mate](https://img.shields.io/badge/-ejsmate-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
 ![cloudinary](https://img.shields.io/badge/-cloudinary-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
 
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
+
