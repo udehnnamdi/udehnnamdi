@@ -40,6 +40,6 @@
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/nnamdi-udeh-630a33185) 👨🏻‍💻
  - Shoot Me an [Email](mailto:udehnnamdi.edu@gmail.com) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/onlyArsh)
+ - [GitHub Profile Summary](https://github.com/udehnnamdi)
 
 
