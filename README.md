@@ -29,8 +29,8 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 <br>
-![ejs](https://img.shields.io/badge/-ejs-grey?style=for-the-badge&logo=ejsmate&logoColor=white&labelColor=8E2DE2)
-![ejs-mate](https://img.shields.io/badge/-ejsmate-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
+![ejs](https://img.shields.io/badge/-ejs-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+![ejs-mate](https://img.shields.io/badge/-ejsmate-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 
 
 <br/>
