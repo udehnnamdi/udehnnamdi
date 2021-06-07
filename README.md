@@ -33,6 +33,9 @@
 ![ejs-mate](https://img.shields.io/badge/-ejsmate-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 
 
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=ApurvShah007&show_icons=true)
+
+
 <br/>
 
 <a href="https://github.com/udehnnamdi">
