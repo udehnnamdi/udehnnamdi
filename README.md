@@ -7,7 +7,7 @@
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles. 
-  - Open for project collaboration, and Web Developer position. 
+  - Open for project collaboration, and Web Developer positions. 
 </div> 
 <h3>🛠 Tech Stack</h3>
 <img align="center" src="https://github.com/udehnnamdi/udehnnamdi/blob/master/assets/skills.png?raw=true">
